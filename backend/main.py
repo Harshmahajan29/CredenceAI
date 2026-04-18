@@ -2,7 +2,7 @@
 import os, asyncio
 from fastapi import FastAPI, Request
 import importlib
-from app.models.schemas import ScraperInput  # your Pydantic models
+from app.models.schema import ScraperInput  # your Pydantic models
 
 app = FastAPI(title="CredenceAI")
 
