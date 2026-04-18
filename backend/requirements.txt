@@ -10,3 +10,8 @@ python-dotenv
 pydantic
 requests
 beautifulsoup4
+httpx
+tldextract
+tenacity
+certifi
+lxml
